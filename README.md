@@ -14,3 +14,6 @@ Word clouds to visualize the most used words in captions and hashtags (I also us
 In this post, you will learn how to:
 - Use Altair to make a plot where you interact with the mouse to select data points, retrieve information of these points, and zoom in regions of the graph.
 - Implement ipywidgets to make interactive pie charts, clean text data, and word clouds in one line.
+
+
+## Note: The notebook is too heavy and it doesnt display well in github. Download the repository and run it to see the viz in your computer. Or check the gifs in this link https://medium.com/@thalia181189/want-to-create-fully-interactive-plots-with-python-d54ab28760d9 to have a better idea of how the plots look.
